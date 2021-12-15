@@ -1,0 +1,8 @@
+.stats-container {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+.stats-description {
+  font-size: 12px;
+}

@@ -1,0 +1,23 @@
+.hits-container {
+  display: flex;
+  flex-direction: column;
+}
+.hits-grid-row {
+  display: flex;
+}
+.hits-grid-item-1 {
+  width: 34%;
+}
+.hits-grid-item-2 {
+  width: 33%;
+}
+.hit-container {
+  margin: 4px;
+  padding: 0 4px 0 0;
+  display: flex;
+  border: 1px solid lightgrey;
+}
+.hit-title {
+  margin: 0;
+  margin-bottom: 4px;
+}

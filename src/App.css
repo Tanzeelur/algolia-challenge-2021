@@ -1,0 +1,48 @@
+ol li {
+  margin: 8px;
+  font-weight: bold;
+}
+
+input {
+  padding: 8px;
+}
+
+.talks-stats {
+  display: flex;
+  font-weight: bold;
+}
+
+.sort-by {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex: 1;
+}
+
+.ais-SearchBox-input {
+  border: none;
+  border-bottom: 1px solid lightgray;
+  height: 130px;
+  font-size: 65px;
+  margin-bottom: 16px;
+  outline: none;
+}
+
+.ais-SearchBox-submit {
+  display: none;
+}
+
+.ais-SearchBox-resetIcon {
+  height: 65px;
+  width: 65px;
+}
+
+.ais-MenuSelect-select {
+  border: none;
+  margin-right: 8px;
+}
+
+.ais-RangeInput-input {
+  height: 30px;
+  border-radius: 4px;
+}

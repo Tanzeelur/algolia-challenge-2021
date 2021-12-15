@@ -1,0 +1,23 @@
+.hits-container {
+  display: flex;
+  flex-direction: column;
+}
+.hits-grid-row-1 {
+  display: flex;
+}
+.hits-grid-row-1-item-1 {
+  max-width: 67%;
+}
+.hits-grid-row-1-item-2 {
+  max-width: 33%;
+}
+.hits-grid-row-2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.hits-grid-row-2-item-1 {
+  max-width: 34%;
+}
+.hits-grid-row-2-item-2 {
+  max-width: 33%;
+}

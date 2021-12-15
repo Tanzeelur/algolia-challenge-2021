@@ -1,0 +1,22 @@
+.speaker-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 18px;
+}
+.speaker-img {
+  border-radius: 90px;
+  margin-right: 24px;
+}
+.speaker-name {
+  font-size: 18px;
+  margin: 0;
+}
+.speaker-description {
+  font-size: 12px;
+  margin: 0;
+  font-style: italic;
+}
+.speaker-stats {
+  font-size: 12px;
+  margin: 0;
+}
